@@ -24,13 +24,13 @@
     "@dnd-kit/core": "^6.3.1",
     "@dnd-kit/sortable": "^10.0.0",
     "@dnd-kit/utilities": "^3.2.2",
-    "@sentry/react": "^10.51.0",
+    "@sentry/react": "^11.0.0",
     "@tanstack/react-virtual": "^3.13.24",
     "axios": "^1.17.0",
     "canvas-confetti": "^1.9.4",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "framer-motion": "^12.38.0",
+    "framer-motion": "^13.4.4",
     "lucide-react": "^1.14.0",
     "prop-types": "^15.8.1",
     "qrcode.react": "^4.2.0",
@@ -49,14 +49,14 @@
     "socket.io-parser": "^4.2.6"
   },
   "devDependencies": {
-    "@eslint/js": "^9.39.4",
+    "@eslint/js": "^10.0.1",
     "@sentry/vite-plugin": "^5.2.1",
     "@tailwindcss/vite": "^4.2.4",
-    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/jest-dom": "^7.0.1",
     "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^14.6.1",
     "@vitejs/plugin-react-swc": "^4.3.0",
-    "@vitest/coverage-v8": "^4.1.5",
+    "@vitest/coverage-v8": "^5.0.2",
     "eslint": "^9.39.4",
     "eslint-plugin-jsx-a11y": "^6.10.2",
     "eslint-plugin-no-secrets": "^2.3.3",
@@ -69,11 +69,11 @@
     "eslint-plugin-sonarjs": "^4.0.2",
     "fake-indexeddb": "^6.2.5",
     "globals": "^17.5.0",
-    "jest-axe": "^10.0.0",
-    "jsdom": "^29.1.1",
+    "jest-axe": "^11.0.0",
+    "jsdom": "^30.1.1",
     "rollup-plugin-visualizer": "^7.0.1",
     "vite": "^8.0.10",
     "vite-plugin-compression2": "^2.5.3",
-    "vitest": "^4.1.5"
+    "vitest": "^5.0.2"
   }
 }
